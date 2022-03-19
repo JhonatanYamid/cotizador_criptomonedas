@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cotizador_criptomonedas/static/css/main.20fb9faf.css",
+    "main.js": "/cotizador_criptomonedas/static/js/main.ed248326.js",
+    "static/js/787.c1b1fbab.chunk.js": "/cotizador_criptomonedas/static/js/787.c1b1fbab.chunk.js",
+    "static/media/cryptomonedas.png": "/cotizador_criptomonedas/static/media/cryptomonedas.51f1d2ede8b03f972725.png",
+    "index.html": "/cotizador_criptomonedas/index.html",
+    "main.20fb9faf.css.map": "/cotizador_criptomonedas/static/css/main.20fb9faf.css.map",
+    "main.ed248326.js.map": "/cotizador_criptomonedas/static/js/main.ed248326.js.map",
+    "787.c1b1fbab.chunk.js.map": "/cotizador_criptomonedas/static/js/787.c1b1fbab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20fb9faf.css",
+    "static/js/main.ed248326.js"
+  ]
+}
